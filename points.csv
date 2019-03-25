@@ -1,27 +1,27 @@
-marker-color,marker-size,marker-symbol,year,description,park,abbr,lon,lat
-#008000,medium,circle-stroked,2019,CCS strategy to...,Cuyahoga Valley National Park,CUVA,-81.5679931640625,41.22824901518529
-#008000,medium,circle-stroked,2019,Leasing Strategy,Fire Island National Seashore,FIIS,-72.94235229492188,40.70979201243495
-#008000,medium,circle-stroked,2019,Business Plan,Harpers Ferry Center,HFC,-77.74200439453125,39.32354195988703
-#008000,medium,circle-stroked,2019,Special Use Permit Improvement & Land Lease Evaluation,Appalachian National Scenic Trail,APPA,-77.7421760559082,39.33682007828395
-#008000,medium,circle-stroked,2019,Business Plan,Manassas National Battlefield Park,MANA,-77.53180503845215,38.82205601494022
-#008000,medium,circle-stroked,2019,Strategic Facilities Plan,Buffalo National River,BUFF,-93.18878173828125,36.06908224732973
-#008000,medium,circle-stroked,2019,Visitor Services & Transportation Option Analysis,Golden Gate National Recreation Area,GOGA,-122.47215270996092,37.803273851858656
-#008000,medium,circle-stroked,2019,Workforce plan,Redwoods National and State Parks,REDW,-124.0521240234375,41.38917324986403
-#008000,medium,circle-stroked,2019,Project Management Improvement Plan,Mount Rainier National Park,MORA,-121.75872802734375,46.856434763486966
-#008000,medium,circle-stroked,2018,Resource Sharing Strategy,Dinosaur National Monument,DINO,-108.951416015625,40.496048060627885
-#008000,medium,circle-stroked,2018,Commercial Services Analysis,Cape Lookout National Seashore,CALO,-76.34785652160645,34.827261605524924
-#008000,medium,circle-stroked,2018,Workforce Analysis and Plan,Kalaupapa National Historical Site,KALA,-156.98261260986328,21.189213510506796
-#008000,medium,circle-stroked,2018,Commercial Services Analysis and Operational Analysis,Santa Monica Mountains National Recreation Area,SAMO,-118.58402252197267,34.06602755916643
-#008000,medium,circle-stroked,2018,Deferred Maintenance Reduction Framework,Gateway National Recreation Area ,GATE,-74.05669212341309,40.60036620613856
-#008000,medium,circle-stroked,2018,Strategic Planning Framework,Point Reyes National Seashore,PORE,-122.84122467041016,38.04782070244462
-#008000,medium,circle-stroked,2018,Commercial Services Analysis,Grand Canyon National Park,GRCA,-112.14131355285645,36.05555245066805
-#008000,medium,circle-stroked,2018,Operational Analysis,Chesapeake & Ohio Canal National Historical Park,CHOH,-77.82719135284424,39.58253942286512
-#008000,medium,circle-stroked,2017,Organizational Design & Pricing,Badlands NP and Minuteman Missile NHS,BADL,-102.36373901367188,43.52714431360083
-#008000,medium,circle-stroked,2017,Commercial Services Strategy,Catoctin Mountain Park,CATO,-77.46734619140625,39.64799732373418
-#008000,medium,circle-stroked,2017,,Denali National Park & Preserve,DENA,-150.35888671875,63.06242579828568
-#008000,medium,circle-stroked,2017,,Glen Canyon National Recreation Area,GLCA,-111.56993865966797,36.85847168791826
-#008000,medium,circle-stroked,2017,Business Plan,Great Smoky Mountains National Park,GRSM,-83.26812744140625,35.679609609368576
-#008000,medium,circle-stroked,2017,Commercial Services Analysis,Gulf Islands National Seashore,GUIS,-88.790602684021,30.391423127400625
-#008000,medium,circle-stroked,2017,Financial Management and Workforce Planning,Mount Rainier National Park,MORA,-121.76559448242188,46.8559652134879
-#008000,medium,circle-stroked,2017,Business Plan,National Trails of the Intermountain Region,NTIR,-105.93911290168762,35.69140004997044
-#008000,medium,circle-stroked,2017,Business and Workforce Planning,Southeast Arizona Group,SEAZ,-109.32769775390625,31.956823015897207
+marker-color,marker-size,marker-symbol,year,description,park,abbr,lng,lat
+#008000,medium,circle-stroked,2019,CCS strategy to...,Cuyahoga Valley National Park,CUVA,-81.56799316,41.22824902
+#008000,medium,circle-stroked,2019,Leasing Strategy,Fire Island National Seashore,FIIS,-72.94235229,40.70979201
+#008000,medium,circle-stroked,2019,Business Plan,Harpers Ferry Center,HFC,-77.74200439,39.32354196
+#008000,medium,circle-stroked,2019,Special Use Permit Improvement & Land Lease Evaluation,Appalachian National Scenic Trail,APPA,-77.74217606,39.33682008
+#008000,medium,circle-stroked,2019,Business Plan,Manassas National Battlefield Park,MANA,-77.53180504,38.82205601
+#008000,medium,circle-stroked,2019,Strategic Facilities Plan,Buffalo National River,BUFF,-93.18878174,36.06908225
+#008000,medium,circle-stroked,2019,Visitor Services & Transportation Option Analysis,Golden Gate National Recreation Area,GOGA,-122.4721527,37.80327385
+#008000,medium,circle-stroked,2019,Workforce plan,Redwoods National and State Parks,REDW,-124.052124,41.38917325
+#008000,medium,circle-stroked,2019,Project Management Improvement Plan,Mount Rainier National Park,MORA,-121.758728,46.85643476
+#008000,medium,circle-stroked,2018,Resource Sharing Strategy,Dinosaur National Monument,DINO,-108.951416,40.49604806
+#008000,medium,circle-stroked,2018,Commercial Services Analysis,Cape Lookout National Seashore,CALO,-76.34785652,34.82726161
+#008000,medium,circle-stroked,2018,Workforce Analysis and Plan,Kalaupapa National Historical Site,KALA,-156.9826126,21.18921351
+#008000,medium,circle-stroked,2018,Commercial Services Analysis and Operational Analysis,Santa Monica Mountains National Recreation Area,SAMO,-118.5840225,34.06602756
+#008000,medium,circle-stroked,2018,Deferred Maintenance Reduction Framework,Gateway National Recreation Area ,GATE,-74.05669212,40.60036621
+#008000,medium,circle-stroked,2018,Strategic Planning Framework,Point Reyes National Seashore,PORE,-122.8412247,38.0478207
+#008000,medium,circle-stroked,2018,Commercial Services Analysis,Grand Canyon National Park,GRCA,-112.1413136,36.05555245
+#008000,medium,circle-stroked,2018,Operational Analysis,Chesapeake & Ohio Canal National Historical Park,CHOH,-77.82719135,39.58253942
+#008000,medium,circle-stroked,2017,Organizational Design & Pricing,Badlands NP and Minuteman Missile NHS,BADL,-102.363739,43.52714431
+#008000,medium,circle-stroked,2017,Commercial Services Strategy,Catoctin Mountain Park,CATO,-77.46734619,39.64799732
+#008000,medium,circle-stroked,2017,,Denali National Park & Preserve,DENA,-150.3588867,63.0624258
+#008000,medium,circle-stroked,2017,,Glen Canyon National Recreation Area,GLCA,-111.5699387,36.85847169
+#008000,medium,circle-stroked,2017,Business Plan,Great Smoky Mountains National Park,GRSM,-83.26812744,35.67960961
+#008000,medium,circle-stroked,2017,Commercial Services Analysis,Gulf Islands National Seashore,GUIS,-88.79060268,30.39142313
+#008000,medium,circle-stroked,2017,Financial Management and Workforce Planning,Mount Rainier National Park,MORA,-121.7655945,46.85596521
+#008000,medium,circle-stroked,2017,Business Plan,National Trails of the Intermountain Region,NTIR,-105.9391129,35.69140005
+#008000,medium,circle-stroked,2017,Business and Workforce Planning,Southeast Arizona Group,SEAZ,-109.3276978,31.95682302
